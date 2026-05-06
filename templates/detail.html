@@ -1,0 +1,221 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>CWE-{{ obj.ID }} - {{ obj.Name }}</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+      body { background-color: #f8f9fa; padding-bottom: 50px; }
+      .page-header { background: #fff; padding: 2rem 0; border-bottom: 1px solid #e9ecef; margin-bottom: 2rem; }
+      .badge-custom { font-size: 0.9em; padding: 0.5em 0.75em; margin-right: 0.5rem; }
+      .section-card { background: #fff; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); padding: 1.5rem; margin-bottom: 1.5rem; border: 1px solid #e9ecef; }
+      .section-title { font-size: 1.25rem; font-weight: 600; color: #2c3e50; border-bottom: 2px solid #e9ecef; padding-bottom: 0.5rem; margin-bottom: 1rem; }
+      pre.code-block { background: #272822; color: #f8f8f2; padding: 1rem; border-radius: 4px; overflow-x: auto; }
+      .relation-list { list-style: none; padding-left: 0; }
+      .relation-list li { margin-bottom: 0.25rem; }
+      .relation-list a { text-decoration: none; color: #0d6efd; font-weight: 500; }
+      .relation-list a:hover { text-decoration: underline; }
+    </style>
+  </head>
+  <body>
+    <div class="page-header">
+      <div class="container">
+        <a href="/" class="text-decoration-none mb-3 d-inline-block">&larr; Back to CWE List</a>
+        <h1 class="display-5 fw-bold text-dark">CWE-{{ obj.ID }}: {{ obj.Name }}</h1>
+        <div class="mt-3">
+          {% if obj.Abstraction %}<span class="badge bg-primary badge-custom">Abstraction: {{ obj.Abstraction }}</span>{% endif %}
+          {% if obj.Status %}<span class="badge bg-secondary badge-custom">Status: {{ obj.Status }}</span>{% endif %}
+          {% if obj.Structure %}<span class="badge bg-info badge-custom">Structure: {{ obj.Structure }}</span>{% endif %}
+          {% if obj.LikelihoodOfExploit %}<span class="badge bg-danger badge-custom">Likelihood of Exploit: {{ obj.LikelihoodOfExploit }}</span>{% endif %}
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          
+          <!-- Description -->
+          <div class="section-card">
+            <h2 class="section-title">Description</h2>
+            <p class="fs-5">{{ obj.Description }}</p>
+            {% if obj.ExtendedDescription %}
+            <p class="text-muted">{{ obj.ExtendedDescription }}</p>
+            {% endif %}
+          </div>
+
+          <!-- Demonstrative Examples -->
+          {% if obj.DemonstrativeExamples %}
+          <div class="section-card">
+            <h2 class="section-title">Demonstrative Examples</h2>
+            {% for ex in obj.DemonstrativeExamples %}
+              <div class="mb-4">
+                {% if ex.ID %}<h5>Example {{ ex.ID }}</h5>{% endif %}
+                {% for entry in ex.Entries %}
+                  {% if entry.IntroText %}<p>{{ entry.IntroText }}</p>{% endif %}
+                  {% if entry.ExampleCode %}
+                    <pre class="code-block"><code>{{ entry.ExampleCode | replace('`', '') | escape }}</code></pre>
+                  {% endif %}
+                  {% if entry.BodyText %}<p>{{ entry.BodyText }}</p>{% endif %}
+                {% endfor %}
+              </div>
+              {% if not loop.last %}<hr>{% endif %}
+            {% endfor %}
+          </div>
+          {% endif %}
+
+          <!-- Potential Mitigations -->
+          {% if obj.PotentialMitigations %}
+          <div class="section-card">
+            <h2 class="section-title">Potential Mitigations</h2>
+            <div class="table-responsive">
+              <table class="table table-bordered table-striped">
+                <thead class="table-light">
+                  <tr>
+                    <th>Phase</th>
+                    <th>Description</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {% for mit in obj.PotentialMitigations %}
+                  <tr>
+                    <td>
+                      {% if mit.Phase %}
+                        {{ mit.Phase | join(', ') }}
+                      {% endif %}
+                    </td>
+                    <td>{{ mit.Description }}</td>
+                  </tr>
+                  {% endfor %}
+                </tbody>
+              </table>
+            </div>
+          </div>
+          {% endif %}
+
+          <!-- Common Consequences -->
+          {% if obj.CommonConsequences %}
+          <div class="section-card">
+            <h2 class="section-title">Common Consequences</h2>
+            <div class="table-responsive">
+              <table class="table table-bordered">
+                <thead class="table-light">
+                  <tr>
+                    <th>Scope</th>
+                    <th>Impact</th>
+                    <th>Note</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {% for con in obj.CommonConsequences %}
+                  <tr>
+                    <td>{% if con.Scope %}{{ con.Scope | join(', ') }}{% endif %}</td>
+                    <td>{% if con.Impact %}{{ con.Impact | join(', ') }}{% endif %}</td>
+                    <td>{{ con.Note | default('-') }}</td>
+                  </tr>
+                  {% endfor %}
+                </tbody>
+              </table>
+            </div>
+          </div>
+          {% endif %}
+
+          <!-- Observed Examples -->
+          {% if obj.ObservedExamples %}
+          <div class="section-card">
+            <h2 class="section-title">Observed Examples</h2>
+            <div class="table-responsive">
+              <table class="table table-sm table-bordered">
+                <thead class="table-light">
+                  <tr>
+                    <th>Reference</th>
+                    <th>Description</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {% for obs in obj.ObservedExamples %}
+                  <tr>
+                    <td>
+                      {% if obs.Link %}
+                        <a href="{{ obs.Link }}" target="_blank">{{ obs.Reference }}</a>
+                      {% else %}
+                        {{ obs.Reference }}
+                      {% endif %}
+                    </td>
+                    <td>{{ obs.Description }}</td>
+                  </tr>
+                  {% endfor %}
+                </tbody>
+              </table>
+            </div>
+          </div>
+          {% endif %}
+
+        </div>
+
+        <!-- Sidebar -->
+        <div class="col-lg-4">
+          <!-- Applicable Platforms -->
+          {% if obj.ApplicablePlatforms %}
+          <div class="section-card">
+            <h2 class="section-title fs-5">Applicable Platforms</h2>
+            <ul class="list-group list-group-flush">
+              {% for p in obj.ApplicablePlatforms %}
+              <li class="list-group-item d-flex justify-content-between align-items-center">
+                {{ p.Type }}: {{ p.Name }}
+                {% if p.Prevalence %}<span class="badge bg-secondary rounded-pill">{{ p.Prevalence }}</span>{% endif %}
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+          {% endif %}
+          
+          <!-- Modes Of Introduction -->
+          {% if obj.ModesOfIntroduction %}
+          <div class="section-card">
+            <h2 class="section-title fs-5">Modes of Introduction</h2>
+            <ul class="list-group list-group-flush">
+              {% for mode in obj.ModesOfIntroduction %}
+              <li class="list-group-item">
+                <strong>{{ mode.Phase }}</strong>
+                {% if mode.Note %}<br><small class="text-muted">{{ mode.Note }}</small>{% endif %}
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+          {% endif %}
+
+          <!-- Relationships -->
+          <div class="section-card" style="max-height: 500px; overflow-y: auto;">
+            <h2 class="section-title fs-5">Relationships</h2>
+            <div class="accordion accordion-flush" id="relationsAccordion">
+              {% for key, rels in relations.items() %}
+                {% if rels %}
+                <div class="accordion-item">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed py-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{ key }}" aria-expanded="false" aria-controls="collapse{{ key }}">
+                      {{ key | title }} ({{ rels[0].get('Children', []) | length if key == 'children' else (rels[0].get('Parents', []) | length if key == 'parents' else '?') }})
+                      <!-- Wait, we can't easily count flattened relations here without passing it correctly, lets just show the key -->
+                    </button>
+                  </h2>
+                  <div id="collapse{{ key }}" class="accordion-collapse collapse">
+                    <div class="accordion-body px-0 py-2">
+                       <pre style="font-size:11px; margin:0;">{{ rels | tojson(indent=2) }}</pre>
+                    </div>
+                  </div>
+                </div>
+                {% endif %}
+              {% endfor %}
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <!-- Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>

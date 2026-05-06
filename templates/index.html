@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>CWE Browser</title>
+    <style>
+      body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; margin: 0; padding: 24px; background: #f0f2f5; color: #333; }
+      h1 { text-align: center; color: #1a202c; }
+      .search-container { max-width: 800px; margin: 0 auto 24px auto; text-align: center; }
+      #searchInput { width: 100%; padding: 12px; font-size: 16px; border: 1px solid #cbd5e0; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); margin-bottom: 16px; }
+      .filter-buttons { margin-bottom: 24px; display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; }
+      .filter-btn { padding: 8px 16px; border: 1px solid #3182ce; background: white; color: #3182ce; border-radius: 20px; cursor: pointer; font-weight: 500; transition: all 0.2s; }
+      .filter-btn:hover { background: #ebf8ff; }
+      .filter-btn.active { background: #3182ce; color: white; }
+      .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; max-width: 1200px; margin: 0 auto; }
+      .card { background: white; padding: 16px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); cursor: pointer; transition: transform 0.2s, box-shadow 0.2s; text-decoration: none; color: inherit; display: block; border-top: 4px solid #3182ce; }
+      .card:hover { transform: translateY(-2px); box-shadow: 0 4px 8px rgba(0,0,0,0.15); }
+      .card-id { font-size: 14px; font-weight: bold; color: #3182ce; margin-bottom: 8px; }
+      .card-name { font-size: 16px; font-weight: 600; margin-bottom: 8px; line-height: 1.4; }
+      .card-abs { font-size: 12px; color: #718096; background: #e2e8f0; padding: 2px 8px; border-radius: 12px; display: inline-block; }
+      .hidden { display: none !important; }
+    </style>
+  </head>
+  <body>
+    <h1>CWE Weaknesses</h1>
+    <div class="search-container">
+      <input type="text" id="searchInput" placeholder="搜索 CWE ID 或名称..." onkeyup="filterCards()">
+      <div class="filter-buttons">
+        <button class="filter-btn active" onclick="setFilter('all', this)">全部 (All)</button>
+        <button class="filter-btn" onclick="setFilter('699', this)">软件开发 (CWE-699)</button>
+        <button class="filter-btn" onclick="setFilter('1194', this)">硬件设计 (CWE-1194)</button>
+        <button class="filter-btn" onclick="setFilter('1000', this)">研究概念 (CWE-1000)</button>
+      </div>
+    </div>
+    <div class="cards" id="cardsContainer">
+      {% for w in weaknesses %}
+      <a href="/weakness/{{ w.ID }}" class="card" data-id="{{ w.ID }}" data-name="{{ w.Name | lower }}">
+        <div class="card-id">CWE-{{ w.ID }}</div>
+        <div class="card-name">{{ w.Name }}</div>
+        <div class="card-abs">{{ w.Abstraction }}</div>
+      </a>
+      {% endfor %}
+    </div>
+
+    <!-- Pass view members data from python as JS object -->
+    <script id="viewMembersData" type="application/json">
+        {{ view_members | safe }}
+    </script>
+
+    <script>
+      let currentFilter = 'all';
+      let viewMembers = {};
+      try {
+          viewMembers = JSON.parse(document.getElementById('viewMembersData').textContent);
+      } catch (e) {
+          console.error('Error parsing view members data');
+      }
+
+      function setFilter(viewId, btnElement) {
+          currentFilter = viewId;
+          
+          // Update active button styling
+          const buttons = document.getElementsByClassName('filter-btn');
+          for (let b of buttons) { b.classList.remove('active'); }
+          if (btnElement) btnElement.classList.add('active');
+
+          filterCards();
+      }
+
+      function filterCards() {
+        const input = document.getElementById('searchInput');
+        const searchWord = input.value.toLowerCase();
+        const cards = document.getElementsByClassName('card');
+
+        let allowedIds = null;
+        if (currentFilter !== 'all' && viewMembers[currentFilter]) {
+            allowedIds = new Set(viewMembers[currentFilter]);
+        }
+
+        for (let i = 0; i < cards.length; i++) {
+          const rawId = cards[i].getAttribute('data-id');
+          const idSearch = ('cwe-' + rawId).toLowerCase();
+          const nameSearch = cards[i].getAttribute('data-name');
+          
+          let matchesSearch = false;
+          if (idSearch.indexOf(searchWord) > -1 || nameSearch.indexOf(searchWord) > -1) {
+              matchesSearch = true;
+          }
+
+          let matchesCategory = true;
+          if (allowedIds !== null) {
+              if (!allowedIds.has(rawId)) {
+                  matchesCategory = false;
+              }
+          }
+
+          if (matchesSearch && matchesCategory) {
+            cards[i].classList.remove('hidden');
+          } else {
+            cards[i].classList.add('hidden');
+          }
+        }
+      }
+    </script>
+  </body>
+</html>

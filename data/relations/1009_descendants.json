@@ -1,0 +1,59 @@
+[
+  {
+    "Data": {
+      "Type": "category",
+      "ID": "1009",
+      "ViewID": "1008"
+    },
+    "Children": [
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "117",
+          "ViewID": "1008"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "223",
+          "ViewID": "1008"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "224",
+          "ViewID": "1008"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "532",
+          "ViewID": "1008"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "778",
+          "ViewID": "1008"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "779",
+          "ViewID": "1008"
+        },
+        "Children": null
+      }
+    ]
+  }
+]

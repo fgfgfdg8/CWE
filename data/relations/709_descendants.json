@@ -1,0 +1,35 @@
+[
+  {
+    "Data": {
+      "Type": "view",
+      "ID": "709",
+      "ViewID": "709"
+    },
+    "Children": [
+      {
+        "Data": {
+          "Type": "chain_weakness",
+          "ID": "680",
+          "ViewID": "709"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "chain_weakness",
+          "ID": "690",
+          "ViewID": "709"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "chain_weakness",
+          "ID": "692",
+          "ViewID": "709"
+        },
+        "Children": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,203 @@
+[
+  {
+    "Data": {
+      "Type": "category",
+      "ID": "1413",
+      "ViewID": "1400"
+    },
+    "Children": [
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "182",
+          "ViewID": "1400"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "184",
+          "ViewID": "1400"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "222",
+          "ViewID": "1400"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "223",
+          "ViewID": "1400"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "224",
+          "ViewID": "1400"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "356",
+          "ViewID": "1400"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "357",
+          "ViewID": "1400"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "450",
+          "ViewID": "1400"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "class_weakness",
+          "ID": "602",
+          "ViewID": "1400"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "pillar_weakness",
+          "ID": "693",
+          "ViewID": "1400"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "757",
+          "ViewID": "1400"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "778",
+          "ViewID": "1400"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "807",
+          "ViewID": "1400"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "class_weakness",
+          "ID": "1039",
+          "ViewID": "1400"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "1248",
+          "ViewID": "1400"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "1253",
+          "ViewID": "1400"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "1269",
+          "ViewID": "1400"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "1278",
+          "ViewID": "1400"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "1291",
+          "ViewID": "1400"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "1318",
+          "ViewID": "1400"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "1319",
+          "ViewID": "1400"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "1326",
+          "ViewID": "1400"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "1338",
+          "ViewID": "1400"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "1429",
+          "ViewID": "1400"
+        },
+        "Children": null
+      }
+    ]
+  }
+]

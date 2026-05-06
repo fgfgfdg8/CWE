@@ -1,0 +1,43 @@
+[
+  {
+    "Data": {
+      "Type": "category",
+      "ID": "320",
+      "ViewID": "699"
+    },
+    "Children": [
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "322",
+          "ViewID": "699"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "323",
+          "ViewID": "699"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "324",
+          "ViewID": "699"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "798",
+          "ViewID": "699"
+        },
+        "Children": null
+      }
+    ]
+  }
+]

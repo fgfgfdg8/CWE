@@ -1,0 +1,219 @@
+[
+  {
+    "Data": {
+      "Type": "class_weakness",
+      "ID": "610",
+      "ViewID": "888"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "980",
+          "ViewID": "888"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "category",
+              "ID": "893",
+              "ViewID": "888"
+            },
+            "Parents": [
+              {
+                "Data": {
+                  "Type": "view",
+                  "ID": "888",
+                  "ViewID": "888"
+                },
+                "Parents": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Data": {
+      "Type": "class_weakness",
+      "ID": "610",
+      "ViewID": "1000"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "pillar_weakness",
+          "ID": "664",
+          "ViewID": "1000"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "view",
+              "ID": "1000",
+              "ViewID": "1000"
+            },
+            "Parents": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Data": {
+      "Type": "class_weakness",
+      "ID": "610",
+      "ViewID": "1003"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "view",
+          "ID": "1003",
+          "ViewID": "1003"
+        },
+        "Parents": null
+      }
+    ]
+  },
+  {
+    "Data": {
+      "Type": "class_weakness",
+      "ID": "610",
+      "ViewID": "1008"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "1015",
+          "ViewID": "1008"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "view",
+              "ID": "1008",
+              "ViewID": "1008"
+            },
+            "Parents": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Data": {
+      "Type": "class_weakness",
+      "ID": "610",
+      "ViewID": "1344"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "1347",
+          "ViewID": "1344"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "view",
+              "ID": "1344",
+              "ViewID": "1344"
+            },
+            "Parents": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Data": {
+      "Type": "class_weakness",
+      "ID": "610",
+      "ViewID": "1358"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "1368",
+          "ViewID": "1358"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "category",
+              "ID": "1360",
+              "ViewID": "1358"
+            },
+            "Parents": [
+              {
+                "Data": {
+                  "Type": "view",
+                  "ID": "1358",
+                  "ViewID": "1358"
+                },
+                "Parents": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Data": {
+      "Type": "class_weakness",
+      "ID": "610",
+      "ViewID": "1400"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "1416",
+          "ViewID": "1400"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "view",
+              "ID": "1400",
+              "ViewID": "1400"
+            },
+            "Parents": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Data": {
+      "Type": "class_weakness",
+      "ID": "610",
+      "ViewID": "1450"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "1440",
+          "ViewID": "1450"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "view",
+              "ID": "1450",
+              "ViewID": "1450"
+            },
+            "Parents": null
+          }
+        ]
+      }
+    ]
+  }
+]

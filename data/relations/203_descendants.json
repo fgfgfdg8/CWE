@@ -1,0 +1,103 @@
+[
+  {
+    "Data": {
+      "Type": "base_weakness",
+      "ID": "203",
+      "ViewID": "1000"
+    },
+    "Children": [
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "1300",
+          "ViewID": "1000"
+        },
+        "Children": [
+          {
+            "Data": {
+              "Type": "variant_weakness",
+              "ID": "1255",
+              "ViewID": "1000"
+            },
+            "Children": null
+          }
+        ]
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "1303",
+          "ViewID": "1000"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "204",
+          "ViewID": "1000"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "205",
+          "ViewID": "1000"
+        },
+        "Children": [
+          {
+            "Data": {
+              "Type": "variant_weakness",
+              "ID": "206",
+              "ViewID": "1000"
+            },
+            "Children": null
+          },
+          {
+            "Data": {
+              "Type": "variant_weakness",
+              "ID": "207",
+              "ViewID": "1000"
+            },
+            "Children": null
+          }
+        ]
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "208",
+          "ViewID": "1000"
+        },
+        "Children": [
+          {
+            "Data": {
+              "Type": "base_weakness",
+              "ID": "1254",
+              "ViewID": "1000"
+            },
+            "Children": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Data": {
+      "Type": "base_weakness",
+      "ID": "203",
+      "ViewID": "1194"
+    },
+    "Children": [
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "1300",
+          "ViewID": "1194"
+        },
+        "Children": null
+      }
+    ]
+  }
+]

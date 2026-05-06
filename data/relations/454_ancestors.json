@@ -1,0 +1,202 @@
+[
+  {
+    "Data": {
+      "Type": "base_weakness",
+      "ID": "454",
+      "ViewID": "699"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "452",
+          "ViewID": "699"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "view",
+              "ID": "699",
+              "ViewID": "699"
+            },
+            "Parents": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Data": {
+      "Type": "base_weakness",
+      "ID": "454",
+      "ViewID": "800"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "808",
+          "ViewID": "800"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "view",
+              "ID": "800",
+              "ViewID": "800"
+            },
+            "Parents": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Data": {
+      "Type": "base_weakness",
+      "ID": "454",
+      "ViewID": "884"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "view",
+          "ID": "884",
+          "ViewID": "884"
+        },
+        "Parents": null
+      }
+    ]
+  },
+  {
+    "Data": {
+      "Type": "base_weakness",
+      "ID": "454",
+      "ViewID": "888"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "994",
+          "ViewID": "888"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "category",
+              "ID": "896",
+              "ViewID": "888"
+            },
+            "Parents": [
+              {
+                "Data": {
+                  "Type": "view",
+                  "ID": "888",
+                  "ViewID": "888"
+                },
+                "Parents": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Data": {
+      "Type": "base_weakness",
+      "ID": "454",
+      "ViewID": "1000"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "class_weakness",
+          "ID": "1419",
+          "ViewID": "1000"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "class_weakness",
+              "ID": "665",
+              "ViewID": "1000"
+            },
+            "Parents": [
+              {
+                "Data": {
+                  "Type": "pillar_weakness",
+                  "ID": "664",
+                  "ViewID": "1000"
+                },
+                "Parents": [
+                  {
+                    "Data": {
+                      "Type": "view",
+                      "ID": "1000",
+                      "ViewID": "1000"
+                    },
+                    "Parents": null
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Data": {
+      "Type": "base_weakness",
+      "ID": "454",
+      "ViewID": "1400"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "1416",
+          "ViewID": "1400"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "view",
+              "ID": "1400",
+              "ViewID": "1400"
+            },
+            "Parents": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Data": {
+      "Type": "base_weakness",
+      "ID": "454",
+      "ViewID": "1450"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "1441",
+          "ViewID": "1450"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "view",
+              "ID": "1450",
+              "ViewID": "1450"
+            },
+            "Parents": null
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "Data": {
+      "Type": "category",
+      "ID": "815",
+      "ViewID": "809"
+    },
+    "Children": [
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "209",
+          "ViewID": "809"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "variant_weakness",
+          "ID": "219",
+          "ViewID": "809"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "250",
+          "ViewID": "809"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "538",
+          "ViewID": "809"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "552",
+          "ViewID": "809"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "class_weakness",
+          "ID": "732",
+          "ViewID": "809"
+        },
+        "Children": null
+      }
+    ]
+  }
+]

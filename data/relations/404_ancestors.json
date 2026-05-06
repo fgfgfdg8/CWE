@@ -1,0 +1,442 @@
+[
+  {
+    "Data": {
+      "Type": "class_weakness",
+      "ID": "404",
+      "ViewID": "700"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "398",
+          "ViewID": "700"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "view",
+              "ID": "700",
+              "ViewID": "700"
+            },
+            "Parents": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Data": {
+      "Type": "class_weakness",
+      "ID": "404",
+      "ViewID": "711"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "730",
+          "ViewID": "711"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "view",
+              "ID": "711",
+              "ViewID": "711"
+            },
+            "Parents": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Data": {
+      "Type": "class_weakness",
+      "ID": "404",
+      "ViewID": "734"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "743",
+          "ViewID": "734"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "view",
+              "ID": "734",
+              "ViewID": "734"
+            },
+            "Parents": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Data": {
+      "Type": "class_weakness",
+      "ID": "404",
+      "ViewID": "750"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "752",
+          "ViewID": "750"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "view",
+              "ID": "750",
+              "ViewID": "750"
+            },
+            "Parents": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Data": {
+      "Type": "class_weakness",
+      "ID": "404",
+      "ViewID": "844"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "857",
+          "ViewID": "844"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "view",
+              "ID": "844",
+              "ViewID": "844"
+            },
+            "Parents": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Data": {
+      "Type": "class_weakness",
+      "ID": "404",
+      "ViewID": "868"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "876",
+          "ViewID": "868"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "view",
+              "ID": "868",
+              "ViewID": "868"
+            },
+            "Parents": null
+          }
+        ]
+      },
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "877",
+          "ViewID": "868"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "view",
+              "ID": "868",
+              "ViewID": "868"
+            },
+            "Parents": null
+          }
+        ]
+      },
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "882",
+          "ViewID": "868"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "view",
+              "ID": "868",
+              "ViewID": "868"
+            },
+            "Parents": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Data": {
+      "Type": "class_weakness",
+      "ID": "404",
+      "ViewID": "888"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "982",
+          "ViewID": "888"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "category",
+              "ID": "892",
+              "ViewID": "888"
+            },
+            "Parents": [
+              {
+                "Data": {
+                  "Type": "view",
+                  "ID": "888",
+                  "ViewID": "888"
+                },
+                "Parents": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Data": {
+      "Type": "class_weakness",
+      "ID": "404",
+      "ViewID": "1000"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "pillar_weakness",
+          "ID": "664",
+          "ViewID": "1000"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "view",
+              "ID": "1000",
+              "ViewID": "1000"
+            },
+            "Parents": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Data": {
+      "Type": "class_weakness",
+      "ID": "404",
+      "ViewID": "1003"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "view",
+          "ID": "1003",
+          "ViewID": "1003"
+        },
+        "Parents": null
+      }
+    ]
+  },
+  {
+    "Data": {
+      "Type": "class_weakness",
+      "ID": "404",
+      "ViewID": "1133"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "1147",
+          "ViewID": "1133"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "view",
+              "ID": "1133",
+              "ViewID": "1133"
+            },
+            "Parents": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Data": {
+      "Type": "class_weakness",
+      "ID": "404",
+      "ViewID": "1154"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "1162",
+          "ViewID": "1154"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "view",
+              "ID": "1154",
+              "ViewID": "1154"
+            },
+            "Parents": null
+          }
+        ]
+      },
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "1163",
+          "ViewID": "1154"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "view",
+              "ID": "1154",
+              "ViewID": "1154"
+            },
+            "Parents": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Data": {
+      "Type": "class_weakness",
+      "ID": "404",
+      "ViewID": "1305"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "1306",
+          "ViewID": "1305"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "view",
+              "ID": "1305",
+              "ViewID": "1305"
+            },
+            "Parents": null
+          }
+        ]
+      },
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "1308",
+          "ViewID": "1305"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "view",
+              "ID": "1305",
+              "ViewID": "1305"
+            },
+            "Parents": null
+          }
+        ]
+      },
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "1309",
+          "ViewID": "1305"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "view",
+              "ID": "1305",
+              "ViewID": "1305"
+            },
+            "Parents": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Data": {
+      "Type": "class_weakness",
+      "ID": "404",
+      "ViewID": "1340"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "view",
+          "ID": "1340",
+          "ViewID": "1340"
+        },
+        "Parents": null
+      }
+    ]
+  },
+  {
+    "Data": {
+      "Type": "class_weakness",
+      "ID": "404",
+      "ViewID": "1400"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "1416",
+          "ViewID": "1400"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "view",
+              "ID": "1400",
+              "ViewID": "1400"
+            },
+            "Parents": null
+          }
+        ]
+      }
+    ]
+  }
+]

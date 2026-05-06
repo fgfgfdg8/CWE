@@ -1,0 +1,22 @@
+[
+  {
+    "Type": "base_weakness",
+    "ID": "369",
+    "ViewID": "868"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "681",
+    "ViewID": "868"
+  },
+  {
+    "Type": "pillar_weakness",
+    "ID": "682",
+    "ViewID": "868"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "686",
+    "ViewID": "868"
+  }
+]

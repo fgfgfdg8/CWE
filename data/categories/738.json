@@ -1,0 +1,131 @@
+{
+  "ID": "738",
+  "Name": "CERT C Secure Coding Standard (2008) Chapter 5 - Integers (INT)",
+  "Status": "Obsolete",
+  "Summary": "Weaknesses in this category are related to the rules and recommendations in the Integers (INT) chapter of the CERT C Secure Coding Standard (2008).",
+  "Relationships": [
+    {
+      "CweID": "129",
+      "ViewID": "734"
+    },
+    {
+      "CweID": "190",
+      "ViewID": "734"
+    },
+    {
+      "CweID": "192",
+      "ViewID": "734"
+    },
+    {
+      "CweID": "197",
+      "ViewID": "734"
+    },
+    {
+      "CweID": "20",
+      "ViewID": "734"
+    },
+    {
+      "CweID": "369",
+      "ViewID": "734"
+    },
+    {
+      "CweID": "466",
+      "ViewID": "734"
+    },
+    {
+      "CweID": "587",
+      "ViewID": "734"
+    },
+    {
+      "CweID": "606",
+      "ViewID": "734"
+    },
+    {
+      "CweID": "676",
+      "ViewID": "734"
+    },
+    {
+      "CweID": "681",
+      "ViewID": "734"
+    },
+    {
+      "CweID": "682",
+      "ViewID": "734"
+    }
+  ],
+  "References": [
+    {
+      "ExternalReferenceID": "REF-597"
+    }
+  ],
+  "MappingNotes": {
+    "Usage": "Prohibited",
+    "Rationale": "This entry is a Category. Using categories for mapping has been discouraged since 2019. Categories are informal organizational groupings of weaknesses that can help CWE users with data aggregation, navigation, and browsing. However, they are not weaknesses in themselves.",
+    "Comments": "See member weaknesses of this category.",
+    "Reasons": [
+      "Category"
+    ]
+  },
+  "Notes": [
+    {
+      "Type": "Relationship",
+      "Note": "\n               <xhtml:p>In the 2008 version of the CERT C Secure Coding standard, the following rules were mapped to the following CWE IDs:</xhtml:p>\n                  <xhtml:ul>\n                     <xhtml:li>CWE-20 INT06-C Use strtol() or a related function to convert a string token to an integer</xhtml:li>\n                     <xhtml:li>CWE-129 INT32-C Ensure that operations on signed integers do not result in overflow</xhtml:li>\n                     <xhtml:li>CWE-190 INT03-C Use a secure integer library</xhtml:li>\n                     <xhtml:li>CWE-190 INT30-C Ensure that unsigned integer operations do not wrap</xhtml:li>\n                     <xhtml:li>CWE-190 INT32-C Ensure that operations on signed integers do not result in overflow</xhtml:li>\n                     <xhtml:li>CWE-190 INT35-C Evaluate integer expressions in a larger size before comparing or assigning to that size</xhtml:li>\n                     <xhtml:li>CWE-192 INT02-C Understand integer conversion rules</xhtml:li>\n                     <xhtml:li>CWE-192 INT05-C Do not use input functions to convert character data if they cannot handle all possible inputs</xhtml:li>\n                     <xhtml:li>CWE-192 INT31-C Ensure that integer conversions do not result in lost or misinterpreted data</xhtml:li>\n                     <xhtml:li>CWE-197 INT02-C Understand integer conversion rules</xhtml:li>\n                     <xhtml:li>CWE-197 INT05-C Do not use input functions to convert character data if they cannot handle all possible inputs</xhtml:li>\n                     <xhtml:li>CWE-197 INT31-C Ensure that integer conversions do not result in lost or misinterpreted data</xhtml:li>\n                     <xhtml:li>CWE-369 INT33-C Ensure that division and modulo operations do not result in divide-by-zero errors</xhtml:li>\n                     <xhtml:li>CWE-466 INT11-C Take care when converting from pointer to integer or integer to pointer</xhtml:li>\n                     <xhtml:li>CWE-587 INT11-C Take care when converting from pointer to integer or integer to pointer</xhtml:li>\n                     <xhtml:li>CWE-606 INT03-C Use a secure integer library</xhtml:li>\n                     <xhtml:li>CWE-676 INT06-C Use strtol() or a related function to convert a string token to an integer</xhtml:li>\n                     <xhtml:li>CWE-681 INT15-C Use intmax_t or uintmax_t for formatted IO on programmer-defined integer types</xhtml:li>\n                     <xhtml:li>CWE-681 INT31-C Ensure that integer conversions do not result in lost or misinterpreted data</xhtml:li>\n                     <xhtml:li>CWE-681 INT35-C Evaluate integer expressions in a larger size before comparing or assigning to that size</xhtml:li>\n                     <xhtml:li>CWE-682 INT07-C Use only explicitly signed or unsigned char type for numeric values</xhtml:li>\n                     <xhtml:li>CWE-682 INT13-C Use bitwise operators only on unsigned operands</xhtml:li>\n                  </xhtml:ul>\n            "
+    }
+  ],
+  "ContentHistory": [
+    {
+      "Type": "Submission",
+      "SubmissionName": "CWE Content Team",
+      "SubmissionOrganization": "MITRE",
+      "SubmissionDate": "2008-11-24",
+      "SubmissionVersion": "1.1",
+      "SubmissionReleaseDate": "2008-11-24"
+    },
+    {
+      "Type": "Modification",
+      "ModificationName": "CWE Content Team",
+      "ModificationOrganization": "MITRE",
+      "ModificationDate": "2017-11-08",
+      "ModificationComment": "updated Description, Name, Relationship_Notes",
+      "ModificationVersion": "3.0",
+      "ModificationReleaseDate": "2017-11-08"
+    },
+    {
+      "Type": "Modification",
+      "ModificationName": "CWE Content Team",
+      "ModificationOrganization": "MITRE",
+      "ModificationDate": "2019-01-03",
+      "ModificationComment": "updated Description, Name, References",
+      "ModificationVersion": "3.2",
+      "ModificationReleaseDate": "2019-01-03"
+    },
+    {
+      "Type": "Modification",
+      "ModificationName": "CWE Content Team",
+      "ModificationOrganization": "MITRE",
+      "ModificationDate": "2023-04-27",
+      "ModificationComment": "updated Mapping_Notes",
+      "ModificationVersion": "4.11",
+      "ModificationReleaseDate": "2023-04-27"
+    },
+    {
+      "Type": "Modification",
+      "ModificationName": "CWE Content Team",
+      "ModificationOrganization": "MITRE",
+      "ModificationDate": "2023-06-29",
+      "ModificationComment": "updated Mapping_Notes",
+      "ModificationVersion": "4.12",
+      "ModificationReleaseDate": "2023-06-29"
+    },
+    {
+      "Type": "Rename",
+      "PreviousEntryName": "CERT C Secure Coding Section 04 - Integers (INT)",
+      "Date": "2017-11-08"
+    },
+    {
+      "Type": "Rename",
+      "PreviousEntryName": "CERT C Secure Coding (2008 Version) Section 04 - Integers (INT)",
+      "Date": "2019-01-03"
+    }
+  ]
+}

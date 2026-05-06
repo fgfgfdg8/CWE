@@ -1,0 +1,50 @@
+[
+  {
+    "Type": "base_weakness",
+    "ID": "1085"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "1099"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "1106"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "1107"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "1109"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "1113"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "1114"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "1115"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "1116"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "1117"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "546"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "547"
+  }
+]

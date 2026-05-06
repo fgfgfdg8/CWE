@@ -1,0 +1,45 @@
+[
+  {
+    "Data": {
+      "Type": "category",
+      "ID": "840",
+      "ViewID": "699"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "view",
+          "ID": "699",
+          "ViewID": "699"
+        },
+        "Parents": null
+      }
+    ]
+  },
+  {
+    "Data": {
+      "Type": "category",
+      "ID": "840",
+      "ViewID": "1344"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "1348",
+          "ViewID": "1344"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "view",
+              "ID": "1344",
+              "ViewID": "1344"
+            },
+            "Parents": null
+          }
+        ]
+      }
+    ]
+  }
+]

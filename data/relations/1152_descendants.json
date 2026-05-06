@@ -1,0 +1,99 @@
+[
+  {
+    "Data": {
+      "Type": "category",
+      "ID": "1152",
+      "ViewID": "1133"
+    },
+    "Children": [
+      {
+        "Data": {
+          "Type": "variant_weakness",
+          "ID": "259",
+          "ViewID": "1133"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "class_weakness",
+          "ID": "311",
+          "ViewID": "1133"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "class_weakness",
+          "ID": "327",
+          "ViewID": "1133"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "class_weakness",
+          "ID": "330",
+          "ViewID": "1133"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "variant_weakness",
+          "ID": "332",
+          "ViewID": "1133"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "variant_weakness",
+          "ID": "336",
+          "ViewID": "1133"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "variant_weakness",
+          "ID": "337",
+          "ViewID": "1133"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "class_weakness",
+          "ID": "400",
+          "ViewID": "1133"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "variant_weakness",
+          "ID": "401",
+          "ViewID": "1133"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "770",
+          "ViewID": "1133"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "798",
+          "ViewID": "1133"
+        },
+        "Children": null
+      }
+    ]
+  }
+]

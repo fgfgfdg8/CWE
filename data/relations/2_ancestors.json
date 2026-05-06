@@ -1,0 +1,71 @@
+[
+  {
+    "Data": {
+      "Type": "category",
+      "ID": "2",
+      "ViewID": "700"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "view",
+          "ID": "700",
+          "ViewID": "700"
+        },
+        "Parents": null
+      }
+    ]
+  },
+  {
+    "Data": {
+      "Type": "category",
+      "ID": "2",
+      "ViewID": "928"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "933",
+          "ViewID": "928"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "view",
+              "ID": "928",
+              "ViewID": "928"
+            },
+            "Parents": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Data": {
+      "Type": "category",
+      "ID": "2",
+      "ViewID": "1344"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "1349",
+          "ViewID": "1344"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "view",
+              "ID": "1344",
+              "ViewID": "1344"
+            },
+            "Parents": null
+          }
+        ]
+      }
+    ]
+  }
+]

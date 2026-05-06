@@ -1,0 +1,32 @@
+[
+  {
+    "Type": "compound_weakness",
+    "ID": "384",
+    "ViewID": "1008"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "488",
+    "ViewID": "1008"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "579",
+    "ViewID": "1008"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "6",
+    "ViewID": "1008"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "613",
+    "ViewID": "1008"
+  },
+  {
+    "Type": "class_weakness",
+    "ID": "841",
+    "ViewID": "1008"
+  }
+]

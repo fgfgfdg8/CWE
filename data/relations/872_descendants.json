@@ -1,0 +1,107 @@
+[
+  {
+    "Data": {
+      "Type": "category",
+      "ID": "872",
+      "ViewID": "868"
+    },
+    "Children": [
+      {
+        "Data": {
+          "Type": "variant_weakness",
+          "ID": "129",
+          "ViewID": "868"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "190",
+          "ViewID": "868"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "variant_weakness",
+          "ID": "192",
+          "ViewID": "868"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "197",
+          "ViewID": "868"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "class_weakness",
+          "ID": "20",
+          "ViewID": "868"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "369",
+          "ViewID": "868"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "466",
+          "ViewID": "868"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "variant_weakness",
+          "ID": "587",
+          "ViewID": "868"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "606",
+          "ViewID": "868"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "676",
+          "ViewID": "868"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "681",
+          "ViewID": "868"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "pillar_weakness",
+          "ID": "682",
+          "ViewID": "868"
+        },
+        "Children": null
+      }
+    ]
+  }
+]

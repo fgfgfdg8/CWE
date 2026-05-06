@@ -1,0 +1,76 @@
+[
+  {
+    "Data": {
+      "Type": "category",
+      "ID": "1205",
+      "ViewID": "1194"
+    },
+    "Children": [
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "203",
+          "ViewID": "1194"
+        },
+        "Children": [
+          {
+            "Data": {
+              "Type": "base_weakness",
+              "ID": "1300",
+              "ViewID": "1194"
+            },
+            "Children": null
+          }
+        ]
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "325",
+          "ViewID": "1194"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "1240",
+          "ViewID": "1194"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "1241",
+          "ViewID": "1194"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "1279",
+          "ViewID": "1194"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "1351",
+          "ViewID": "1194"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "1431",
+          "ViewID": "1194"
+        },
+        "Children": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "Type": "view",
+    "ID": "1000",
+    "ViewID": "1000"
+  },
+  {
+    "Type": "view",
+    "ID": "1003",
+    "ViewID": "1003"
+  },
+  {
+    "Type": "category",
+    "ID": "1137",
+    "ViewID": "1133"
+  },
+  {
+    "Type": "category",
+    "ID": "1158",
+    "ViewID": "1154"
+  },
+  {
+    "Type": "category",
+    "ID": "1159",
+    "ViewID": "1154"
+  },
+  {
+    "Type": "category",
+    "ID": "1306",
+    "ViewID": "1305"
+  },
+  {
+    "Type": "category",
+    "ID": "1308",
+    "ViewID": "1305"
+  },
+  {
+    "Type": "view",
+    "ID": "1340",
+    "ViewID": "1340"
+  },
+  {
+    "Type": "category",
+    "ID": "1408",
+    "ViewID": "1400"
+  },
+  {
+    "Type": "category",
+    "ID": "738",
+    "ViewID": "734"
+  },
+  {
+    "Type": "category",
+    "ID": "739",
+    "ViewID": "734"
+  },
+  {
+    "Type": "category",
+    "ID": "752",
+    "ViewID": "750"
+  },
+  {
+    "Type": "category",
+    "ID": "872",
+    "ViewID": "868"
+  },
+  {
+    "Type": "category",
+    "ID": "873",
+    "ViewID": "868"
+  },
+  {
+    "Type": "category",
+    "ID": "977",
+    "ViewID": "888"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "Type": "base_weakness",
+    "ID": "1265",
+    "ViewID": "699"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "15",
+    "ViewID": "699"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "372",
+    "ViewID": "699"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "374",
+    "ViewID": "699"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "375",
+    "ViewID": "699"
+  }
+]

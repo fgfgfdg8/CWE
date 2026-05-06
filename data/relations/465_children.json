@@ -1,0 +1,52 @@
+[
+  {
+    "Type": "base_weakness",
+    "ID": "466",
+    "ViewID": "699"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "468",
+    "ViewID": "699"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "469",
+    "ViewID": "699"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "476",
+    "ViewID": "699"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "587",
+    "ViewID": "699"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "763",
+    "ViewID": "699"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "822",
+    "ViewID": "699"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "823",
+    "ViewID": "699"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "824",
+    "ViewID": "699"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "825",
+    "ViewID": "699"
+  }
+]

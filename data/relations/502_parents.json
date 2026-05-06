@@ -1,0 +1,114 @@
+[
+  {
+    "Type": "class_weakness",
+    "ID": "913",
+    "ViewID": "1000",
+    "Primary_Parent": true
+  },
+  {
+    "Type": "class_weakness",
+    "ID": "913",
+    "ViewID": "1003",
+    "Primary_Parent": true
+  },
+  {
+    "Type": "category",
+    "ID": "1019",
+    "ViewID": "1008"
+  },
+  {
+    "Type": "category",
+    "ID": "1034",
+    "ViewID": "1026"
+  },
+  {
+    "Type": "category",
+    "ID": "1148",
+    "ViewID": "1133"
+  },
+  {
+    "Type": "view",
+    "ID": "1200",
+    "ViewID": "1200"
+  },
+  {
+    "Type": "category",
+    "ID": "1308",
+    "ViewID": "1305"
+  },
+  {
+    "Type": "view",
+    "ID": "1337",
+    "ViewID": "1337"
+  },
+  {
+    "Type": "view",
+    "ID": "1340",
+    "ViewID": "1340"
+  },
+  {
+    "Type": "category",
+    "ID": "1354",
+    "ViewID": "1344"
+  },
+  {
+    "Type": "view",
+    "ID": "1350",
+    "ViewID": "1350"
+  },
+  {
+    "Type": "view",
+    "ID": "1387",
+    "ViewID": "1387"
+  },
+  {
+    "Type": "category",
+    "ID": "1415",
+    "ViewID": "1400"
+  },
+  {
+    "Type": "view",
+    "ID": "1425",
+    "ViewID": "1425"
+  },
+  {
+    "Type": "view",
+    "ID": "1430",
+    "ViewID": "1430"
+  },
+  {
+    "Type": "view",
+    "ID": "1435",
+    "ViewID": "1435"
+  },
+  {
+    "Type": "category",
+    "ID": "1447",
+    "ViewID": "1448"
+  },
+  {
+    "Type": "category",
+    "ID": "1443",
+    "ViewID": "1450"
+  },
+  {
+    "Type": "category",
+    "ID": "399",
+    "ViewID": "699"
+  },
+  {
+    "Type": "category",
+    "ID": "858",
+    "ViewID": "844"
+  },
+  {
+    "Type": "view",
+    "ID": "884",
+    "ViewID": "884"
+  },
+  {
+    "Type": "category",
+    "ID": "994",
+    "ViewID": "888"
+  }
+]

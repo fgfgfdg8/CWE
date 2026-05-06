@@ -1,0 +1,122 @@
+[
+  {
+    "Type": "base_weakness",
+    "ID": "209",
+    "ViewID": "1450"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "215",
+    "ViewID": "1450"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "234",
+    "ViewID": "1450"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "235",
+    "ViewID": "1450"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "248",
+    "ViewID": "1450"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "252",
+    "ViewID": "1450"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "274",
+    "ViewID": "1450"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "280",
+    "ViewID": "1450"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "369",
+    "ViewID": "1450"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "390",
+    "ViewID": "1450"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "391",
+    "ViewID": "1450"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "394",
+    "ViewID": "1450"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "396",
+    "ViewID": "1450"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "397",
+    "ViewID": "1450"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "460",
+    "ViewID": "1450"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "476",
+    "ViewID": "1450"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "478",
+    "ViewID": "1450"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "484",
+    "ViewID": "1450"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "550",
+    "ViewID": "1450"
+  },
+  {
+    "Type": "class_weakness",
+    "ID": "636",
+    "ViewID": "1450"
+  },
+  {
+    "Type": "pillar_weakness",
+    "ID": "703",
+    "ViewID": "1450"
+  },
+  {
+    "Type": "class_weakness",
+    "ID": "754",
+    "ViewID": "1450"
+  },
+  {
+    "Type": "class_weakness",
+    "ID": "755",
+    "ViewID": "1450"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "756",
+    "ViewID": "1450"
+  }
+]

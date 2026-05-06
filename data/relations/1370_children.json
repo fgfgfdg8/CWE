@@ -1,0 +1,32 @@
+[
+  {
+    "Type": "class_weakness",
+    "ID": "1357",
+    "ViewID": "1358"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "329",
+    "ViewID": "1358"
+  },
+  {
+    "Type": "pillar_weakness",
+    "ID": "664",
+    "ViewID": "1358"
+  },
+  {
+    "Type": "pillar_weakness",
+    "ID": "693",
+    "ViewID": "1358"
+  },
+  {
+    "Type": "pillar_weakness",
+    "ID": "707",
+    "ViewID": "1358"
+  },
+  {
+    "Type": "pillar_weakness",
+    "ID": "710",
+    "ViewID": "1358"
+  }
+]

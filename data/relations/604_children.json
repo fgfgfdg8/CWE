@@ -1,0 +1,322 @@
+[
+  {
+    "Type": "deprecated_category",
+    "ID": "1",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "10",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "100",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "101",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_weakness",
+    "ID": "1187",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_weakness",
+    "ID": "132",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_weakness",
+    "ID": "1324",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "139",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "169",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "17",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "171",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "18",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "21",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_weakness",
+    "ID": "216",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_weakness",
+    "ID": "217",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_weakness",
+    "ID": "218",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_weakness",
+    "ID": "225",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_weakness",
+    "ID": "247",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_weakness",
+    "ID": "249",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_weakness",
+    "ID": "292",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "3",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_weakness",
+    "ID": "365",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_weakness",
+    "ID": "373",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "376",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "380",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "381",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "4",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "418",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_weakness",
+    "ID": "423",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "442",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_weakness",
+    "ID": "443",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "445",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_weakness",
+    "ID": "458",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "461",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "490",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "503",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "504",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "505",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "513",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_weakness",
+    "ID": "516",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "517",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "518",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "519",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_weakness",
+    "ID": "533",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_weakness",
+    "ID": "534",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_weakness",
+    "ID": "542",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_weakness",
+    "ID": "545",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "559",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_weakness",
+    "ID": "592",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_weakness",
+    "ID": "596",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "60",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "63",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_view",
+    "ID": "630",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_view",
+    "ID": "631",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "632",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "633",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "634",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_view",
+    "ID": "679",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "68",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_category",
+    "ID": "70",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_weakness",
+    "ID": "71",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_weakness",
+    "ID": "769",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_weakness",
+    "ID": "92",
+    "ViewID": "604"
+  },
+  {
+    "Type": "deprecated_view",
+    "ID": "999",
+    "ViewID": "604"
+  }
+]

@@ -1,0 +1,217 @@
+[
+  {
+    "Type": "base_weakness",
+    "ID": "22",
+    "ViewID": "888"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "23",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "24",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "25",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "26",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "27",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "28",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "29",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "30",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "31",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "32",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "33",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "34",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "35",
+    "ViewID": "888"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "36",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "37",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "38",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "39",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "40",
+    "ViewID": "888"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "41",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "42",
+    "ViewID": "888"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "428",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "43",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "44",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "45",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "46",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "47",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "48",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "49",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "50",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "51",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "52",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "53",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "54",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "55",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "56",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "57",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "58",
+    "ViewID": "888"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "66",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "67",
+    "ViewID": "888"
+  },
+  {
+    "Type": "class_weakness",
+    "ID": "706",
+    "ViewID": "888"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "72",
+    "ViewID": "888"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "73",
+    "ViewID": "888"
+  }
+]

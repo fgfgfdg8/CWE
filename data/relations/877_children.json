@@ -1,0 +1,137 @@
+[
+  {
+    "Type": "class_weakness",
+    "ID": "119",
+    "ViewID": "868"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "134",
+    "ViewID": "868"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "22",
+    "ViewID": "868"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "241",
+    "ViewID": "868"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "276",
+    "ViewID": "868"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "279",
+    "ViewID": "868"
+  },
+  {
+    "Type": "class_weakness",
+    "ID": "362",
+    "ViewID": "868"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "367",
+    "ViewID": "868"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "37",
+    "ViewID": "868"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "379",
+    "ViewID": "868"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "38",
+    "ViewID": "868"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "39",
+    "ViewID": "868"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "391",
+    "ViewID": "868"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "403",
+    "ViewID": "868"
+  },
+  {
+    "Type": "class_weakness",
+    "ID": "404",
+    "ViewID": "868"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "41",
+    "ViewID": "868"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "552",
+    "ViewID": "868"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "59",
+    "ViewID": "868"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "62",
+    "ViewID": "868"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "64",
+    "ViewID": "868"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "65",
+    "ViewID": "868"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "67",
+    "ViewID": "868"
+  },
+  {
+    "Type": "class_weakness",
+    "ID": "675",
+    "ViewID": "868"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "676",
+    "ViewID": "868"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "73",
+    "ViewID": "868"
+  },
+  {
+    "Type": "class_weakness",
+    "ID": "732",
+    "ViewID": "868"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "770",
+    "ViewID": "868"
+  }
+]

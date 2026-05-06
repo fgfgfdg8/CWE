@@ -1,0 +1,19 @@
+[
+  {
+    "Data": {
+      "Type": "class_weakness",
+      "ID": "1263",
+      "ViewID": "1000"
+    },
+    "Children": [
+      {
+        "Data": {
+          "Type": "base_weakness",
+          "ID": "1243",
+          "ViewID": "1000"
+        },
+        "Children": null
+      }
+    ]
+  }
+]

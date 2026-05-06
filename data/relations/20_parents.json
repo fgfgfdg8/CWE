@@ -1,0 +1,138 @@
+[
+  {
+    "Type": "pillar_weakness",
+    "ID": "707",
+    "ViewID": "1000",
+    "Primary_Parent": true
+  },
+  {
+    "Type": "view",
+    "ID": "1003",
+    "ViewID": "1003"
+  },
+  {
+    "Type": "category",
+    "ID": "1019",
+    "ViewID": "1008"
+  },
+  {
+    "Type": "category",
+    "ID": "1163",
+    "ViewID": "1154"
+  },
+  {
+    "Type": "view",
+    "ID": "1200",
+    "ViewID": "1200"
+  },
+  {
+    "Type": "view",
+    "ID": "1337",
+    "ViewID": "1337"
+  },
+  {
+    "Type": "category",
+    "ID": "1347",
+    "ViewID": "1344"
+  },
+  {
+    "Type": "view",
+    "ID": "1350",
+    "ViewID": "1350"
+  },
+  {
+    "Type": "category",
+    "ID": "1382",
+    "ViewID": "1358"
+  },
+  {
+    "Type": "view",
+    "ID": "1387",
+    "ViewID": "1387"
+  },
+  {
+    "Type": "category",
+    "ID": "1406",
+    "ViewID": "1400"
+  },
+  {
+    "Type": "view",
+    "ID": "1425",
+    "ViewID": "1425"
+  },
+  {
+    "Type": "view",
+    "ID": "1430",
+    "ViewID": "1430"
+  },
+  {
+    "Type": "view",
+    "ID": "1435",
+    "ViewID": "1435"
+  },
+  {
+    "Type": "category",
+    "ID": "1440",
+    "ViewID": "1450"
+  },
+  {
+    "Type": "view",
+    "ID": "635",
+    "ViewID": "635"
+  },
+  {
+    "Type": "category",
+    "ID": "1005",
+    "ViewID": "700"
+  },
+  {
+    "Type": "category",
+    "ID": "722",
+    "ViewID": "711"
+  },
+  {
+    "Type": "category",
+    "ID": "738",
+    "ViewID": "734"
+  },
+  {
+    "Type": "category",
+    "ID": "742",
+    "ViewID": "734"
+  },
+  {
+    "Type": "category",
+    "ID": "746",
+    "ViewID": "734"
+  },
+  {
+    "Type": "category",
+    "ID": "747",
+    "ViewID": "734"
+  },
+  {
+    "Type": "category",
+    "ID": "751",
+    "ViewID": "750"
+  },
+  {
+    "Type": "category",
+    "ID": "872",
+    "ViewID": "868"
+  },
+  {
+    "Type": "category",
+    "ID": "876",
+    "ViewID": "868"
+  },
+  {
+    "Type": "category",
+    "ID": "883",
+    "ViewID": "868"
+  },
+  {
+    "Type": "category",
+    "ID": "994",
+    "ViewID": "888"
+  }
+]

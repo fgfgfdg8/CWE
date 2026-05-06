@@ -1,0 +1,32 @@
+[
+  {
+    "Type": "class_weakness",
+    "ID": "362",
+    "ViewID": "1133"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "366",
+    "ViewID": "1133"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "413",
+    "ViewID": "1133"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "567",
+    "ViewID": "1133"
+  },
+  {
+    "Type": "class_weakness",
+    "ID": "662",
+    "ViewID": "1133"
+  },
+  {
+    "Type": "class_weakness",
+    "ID": "667",
+    "ViewID": "1133"
+  }
+]

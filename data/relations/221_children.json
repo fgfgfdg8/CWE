@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "base_weakness",
+    "ID": "222"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "223"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "224"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "356"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "396"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "397"
+  },
+  {
+    "Type": "class_weakness",
+    "ID": "451"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "Type": "view",
+    "ID": "1000",
+    "ViewID": "1000"
+  },
+  {
+    "Type": "category",
+    "ID": "1020",
+    "ViewID": "1008"
+  },
+  {
+    "Type": "category",
+    "ID": "1370",
+    "ViewID": "1358"
+  },
+  {
+    "Type": "category",
+    "ID": "1407",
+    "ViewID": "1400"
+  },
+  {
+    "Type": "category",
+    "ID": "990",
+    "ViewID": "888"
+  }
+]

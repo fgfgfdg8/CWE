@@ -1,0 +1,27 @@
+[
+  {
+    "Data": {
+      "Type": "category",
+      "ID": "854",
+      "ViewID": "844"
+    },
+    "Children": [
+      {
+        "Data": {
+          "Type": "variant_weakness",
+          "ID": "572",
+          "ViewID": "844"
+        },
+        "Children": null
+      },
+      {
+        "Data": {
+          "Type": "class_weakness",
+          "ID": "705",
+          "ViewID": "844"
+        },
+        "Children": null
+      }
+    ]
+  }
+]

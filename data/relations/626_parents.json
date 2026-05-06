@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "variant_weakness",
+    "ID": "147",
+    "ViewID": "1000",
+    "Primary_Parent": true
+  },
+  {
+    "Type": "class_weakness",
+    "ID": "436",
+    "ViewID": "1000"
+  },
+  {
+    "Type": "category",
+    "ID": "1407",
+    "ViewID": "1400"
+  },
+  {
+    "Type": "category",
+    "ID": "990",
+    "ViewID": "888"
+  }
+]

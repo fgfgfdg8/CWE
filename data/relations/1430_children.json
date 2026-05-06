@@ -1,0 +1,127 @@
+[
+  {
+    "Type": "class_weakness",
+    "ID": "119",
+    "ViewID": "1430"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "125",
+    "ViewID": "1430"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "190",
+    "ViewID": "1430"
+  },
+  {
+    "Type": "class_weakness",
+    "ID": "20",
+    "ViewID": "1430"
+  },
+  {
+    "Type": "class_weakness",
+    "ID": "200",
+    "ViewID": "1430"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "22",
+    "ViewID": "1430"
+  },
+  {
+    "Type": "class_weakness",
+    "ID": "269",
+    "ViewID": "1430"
+  },
+  {
+    "Type": "class_weakness",
+    "ID": "287",
+    "ViewID": "1430"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "306",
+    "ViewID": "1430"
+  },
+  {
+    "Type": "compound_weakness",
+    "ID": "352",
+    "ViewID": "1430"
+  },
+  {
+    "Type": "class_weakness",
+    "ID": "400",
+    "ViewID": "1430"
+  },
+  {
+    "Type": "variant_weakness",
+    "ID": "416",
+    "ViewID": "1430"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "434",
+    "ViewID": "1430"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "476",
+    "ViewID": "1430"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "502",
+    "ViewID": "1430"
+  },
+  {
+    "Type": "class_weakness",
+    "ID": "77",
+    "ViewID": "1430"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "78",
+    "ViewID": "1430"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "787",
+    "ViewID": "1430"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "79",
+    "ViewID": "1430"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "798",
+    "ViewID": "1430"
+  },
+  {
+    "Type": "class_weakness",
+    "ID": "862",
+    "ViewID": "1430"
+  },
+  {
+    "Type": "class_weakness",
+    "ID": "863",
+    "ViewID": "1430"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "89",
+    "ViewID": "1430"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "918",
+    "ViewID": "1430"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "94",
+    "ViewID": "1430"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "Type": "pillar_weakness",
+    "ID": "707",
+    "ViewID": "1000",
+    "Primary_Parent": true
+  },
+  {
+    "Type": "view",
+    "ID": "1003",
+    "ViewID": "1003"
+  },
+  {
+    "Type": "category",
+    "ID": "1134",
+    "ViewID": "1133"
+  },
+  {
+    "Type": "category",
+    "ID": "1179",
+    "ViewID": "1178"
+  },
+  {
+    "Type": "category",
+    "ID": "1347",
+    "ViewID": "1344"
+  },
+  {
+    "Type": "category",
+    "ID": "1407",
+    "ViewID": "1400"
+  },
+  {
+    "Type": "category",
+    "ID": "1447",
+    "ViewID": "1448"
+  },
+  {
+    "Type": "category",
+    "ID": "1440",
+    "ViewID": "1450"
+  },
+  {
+    "Type": "category",
+    "ID": "751",
+    "ViewID": "750"
+  },
+  {
+    "Type": "category",
+    "ID": "845",
+    "ViewID": "844"
+  },
+  {
+    "Type": "category",
+    "ID": "883",
+    "ViewID": "868"
+  },
+  {
+    "Type": "category",
+    "ID": "992",
+    "ViewID": "888"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "Type": "class_weakness",
+    "ID": "221",
+    "ViewID": "1000",
+    "Primary_Parent": true
+  },
+  {
+    "Type": "category",
+    "ID": "1009",
+    "ViewID": "1008"
+  },
+  {
+    "Type": "category",
+    "ID": "1036",
+    "ViewID": "1026"
+  },
+  {
+    "Type": "category",
+    "ID": "1355",
+    "ViewID": "1344"
+  },
+  {
+    "Type": "category",
+    "ID": "1413",
+    "ViewID": "1400"
+  },
+  {
+    "Type": "category",
+    "ID": "1444",
+    "ViewID": "1450"
+  },
+  {
+    "Type": "category",
+    "ID": "1210",
+    "ViewID": "699"
+  },
+  {
+    "Type": "view",
+    "ID": "884",
+    "ViewID": "884"
+  },
+  {
+    "Type": "category",
+    "ID": "997",
+    "ViewID": "888"
+  }
+]

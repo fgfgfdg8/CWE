@@ -1,0 +1,28 @@
+[
+  {
+    "Data": {
+      "Type": "category",
+      "ID": "976",
+      "ViewID": "888"
+    },
+    "Parents": [
+      {
+        "Data": {
+          "Type": "category",
+          "ID": "907",
+          "ViewID": "888"
+        },
+        "Parents": [
+          {
+            "Data": {
+              "Type": "view",
+              "ID": "888",
+              "ViewID": "888"
+            },
+            "Parents": null
+          }
+        ]
+      }
+    ]
+  }
+]

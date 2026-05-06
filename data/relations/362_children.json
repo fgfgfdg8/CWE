@@ -1,0 +1,38 @@
+[
+  {
+    "Type": "base_weakness",
+    "ID": "1223"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "1298"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "364"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "366"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "367"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "367"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "368"
+  },
+  {
+    "Type": "base_weakness",
+    "ID": "421"
+  },
+  {
+    "Type": "compound_weakness",
+    "ID": "689"
+  }
+]

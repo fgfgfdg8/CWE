@@ -1,0 +1,42 @@
+[
+  {
+    "Type": "category",
+    "ID": "1005",
+    "ViewID": "700"
+  },
+  {
+    "Type": "category",
+    "ID": "2",
+    "ViewID": "700"
+  },
+  {
+    "Type": "category",
+    "ID": "227",
+    "ViewID": "700"
+  },
+  {
+    "Type": "category",
+    "ID": "254",
+    "ViewID": "700"
+  },
+  {
+    "Type": "category",
+    "ID": "361",
+    "ViewID": "700"
+  },
+  {
+    "Type": "category",
+    "ID": "388",
+    "ViewID": "700"
+  },
+  {
+    "Type": "category",
+    "ID": "398",
+    "ViewID": "700"
+  },
+  {
+    "Type": "category",
+    "ID": "485",
+    "ViewID": "700"
+  }
+]

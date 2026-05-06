@@ -1,0 +1,12 @@
+[
+  {
+    "Type": "variant_weakness",
+    "ID": "416",
+    "ViewID": "888"
+  },
+  {
+    "Type": "class_weakness",
+    "ID": "672",
+    "ViewID": "888"
+  }
+]
